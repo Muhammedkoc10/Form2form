@@ -1,0 +1,11 @@
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\03-PersonelEkleme\bin\Debug\03-PersonelEkleme.exe.config
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\03-PersonelEkleme\bin\Debug\03-PersonelEkleme.exe
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\03-PersonelEkleme\bin\Debug\03-PersonelEkleme.pdb
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\03-PersonelEkleme\obj\Debug\03-PersonelEkleme.csproj.AssemblyReference.cache
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\03-PersonelEkleme\obj\Debug\_03_PersonelEkleme.Form1.resources
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\03-PersonelEkleme\obj\Debug\_03_PersonelEkleme.Form2.resources
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\03-PersonelEkleme\obj\Debug\_03_PersonelEkleme.Properties.Resources.resources
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\03-PersonelEkleme\obj\Debug\03-PersonelEkleme.csproj.GenerateResource.cache
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\03-PersonelEkleme\obj\Debug\03-PersonelEkleme.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\03-PersonelEkleme\obj\Debug\03-PersonelEkleme.exe
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\03-PersonelEkleme\obj\Debug\03-PersonelEkleme.pdb

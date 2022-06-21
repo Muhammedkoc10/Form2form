@@ -1,0 +1,11 @@
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\Örnek1\bin\Debug\Örnek1.exe.config
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\Örnek1\bin\Debug\Örnek1.exe
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\Örnek1\bin\Debug\Örnek1.pdb
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\Örnek1\obj\Debug\Örnek1.csproj.AssemblyReference.cache
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\Örnek1\obj\Debug\Örnek1.Form1.resources
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\Örnek1\obj\Debug\Örnek1.Form2.resources
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\Örnek1\obj\Debug\Örnek1.Properties.Resources.resources
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\Örnek1\obj\Debug\Örnek1.csproj.GenerateResource.cache
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\Örnek1\obj\Debug\Örnek1.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\Örnek1\obj\Debug\Örnek1.exe
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\Örnek1\obj\Debug\Örnek1.pdb

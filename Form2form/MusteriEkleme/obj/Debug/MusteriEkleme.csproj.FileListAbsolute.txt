@@ -1,0 +1,11 @@
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\MusteriEkleme\bin\Debug\MusteriEkleme.exe.config
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\MusteriEkleme\bin\Debug\MusteriEkleme.exe
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\MusteriEkleme\bin\Debug\MusteriEkleme.pdb
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\MusteriEkleme\obj\Debug\MusteriEkleme.Form1.resources
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\MusteriEkleme\obj\Debug\MusteriEkleme.Form2.resources
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\MusteriEkleme\obj\Debug\MusteriEkleme.Properties.Resources.resources
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\MusteriEkleme\obj\Debug\MusteriEkleme.csproj.GenerateResource.cache
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\MusteriEkleme\obj\Debug\MusteriEkleme.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\MusteriEkleme\obj\Debug\MusteriEkleme.exe
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\MusteriEkleme\obj\Debug\MusteriEkleme.pdb
+C:\Users\muham\source\forms app\Form2.5-FormlarArası\MusteriEkleme\obj\Debug\MusteriEkleme.csproj.AssemblyReference.cache
